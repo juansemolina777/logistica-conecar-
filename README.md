@@ -30,4 +30,12 @@ Permite:
 ---
 
 ## 📂 Estructura del proyecto
+logistica-conecar/
+│
+├── app/ # Backend FastAPI
+├── frontend/ # Frontend React
+├── docker-compose.yml
+├── Dockerfile
+└── README.md
+
 
